@@ -1,0 +1,25 @@
+Subtle Suits — third-party notices
+==================================
+
+Engine
+  Godot Engine — MIT License. Copyright (c) 2014-present Godot Engine contributors,
+  (c) 2007-2014 Juan Linietsky, Ariel Manzur. https://godotengine.org/license
+
+Audio
+  Casino Audio 1.1 by Kenney (www.kenney.nl) — CC0 1.0 (public domain).
+  Character and narrator voices — synthesized locally with Qwen3-TTS
+  (VoiceDesign + Base models, Apache-2.0). No real person's voice was recorded or cloned.
+
+Fonts
+  Open Sans — SIL Open Font License 1.1.
+  Casino — display font used for titles.
+
+Art
+  64x64 Medieval Pixel Character Portraits — CraftPix.net freebies
+  (https://craftpix.net/freebies/), used under the CraftPix license.
+  Playing card art and card backs — bundled card art packs.
+
+Online play
+  Room codes and move relay run on Cloudflare Workers / Durable Objects.
+
+Everything else (code, rules, writing) © 2026 Steady State Games LLC.
